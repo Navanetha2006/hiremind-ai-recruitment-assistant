@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+transformers==4.40.0
+sentence-transformers==2.7.0
+spacy==3.7.4
+streamlit
+openai
+python-dotenv
+pandas
+numpy
+scikit-learn
+chromadb
+pypdf
+pdfplumber
+python-docx
+langchain
