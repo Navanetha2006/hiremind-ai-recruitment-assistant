@@ -9,3 +9,4 @@ vector_db/
 *.pdf
 *.bin
 *.sqlite3
+.vscode/
